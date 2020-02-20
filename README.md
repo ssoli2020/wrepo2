@@ -16,6 +16,8 @@ Neuron is pre-integrated into popular machine learning frameworks like TensorFlo
 ```
 ls -al
 screen ls
+screen -S new
+screen -R new
 ```
 
 go to [this section](README.md#aws-neuron-overview)
