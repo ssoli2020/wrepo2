@@ -13,6 +13,11 @@ AWS Neuron is a software development kit (SDK) enabling high-performance deep le
 
 Neuron is pre-integrated into popular machine learning frameworks like TensorFlow, MXNet and Pytorch to provide a seamless training-to-inference workflow. It includes a compiler, runtime driver, as well as debug and profiling utilities with a TensorBoard plugin for visualization.
 
+```
+ls -al
+screen ls
+```
+
 
 ### Neuron developer flow
 
